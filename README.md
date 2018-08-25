@@ -1,17 +1,17 @@
 # MEMORY GAME PROJECT
 
 ## How to Play
+
 1. Click on any card to reveal a symbol.
 2. Click on another card to find the matching symbol.
 3. Use your memory to remember what symbol shows up on which card.
 4. You win the game when all 16 cards are matched!
 
 [Click here to play](https://mahmedtony73.github.io/memorygame/)
-
-
 ![game preview](https://github.com/mahmedtony73/memorygame/blob/gh-pages/img/game2.png "game preview")
 
 ## Student Project
+
 I have tremendous fun coding this interactive JavaScript-based game! The starter code from [Udacity's repository](https://github.com/udacity/fend-project-memory-game) has a JavaScript file that includes a shuffle function (to shuffle a deck of cards) to help the student.
 
 ### Project Specifications
@@ -25,13 +25,13 @@ I have tremendous fun coding this interactive JavaScript-based game! The starter
 | Timer | When the player starts a game, a timer should also start. Once the player wins the game, the timer stops.
 | Move Counter | Game displays the current number of moves a user has made.
 
+## What I've Learned
 
-## What I've Learned:
- - Using the console to log the code helps in debugging
- - Getting DOM elements by class requires more work than by ID
- - Choosing the right speed/timing can make a game more fun to play and also harder to code
-    - If I show a pair of cards for too short of a time, it's hard for the user to see the symbols. But if I show the cards for too long of a time, the user get impatient and will try to click on a third card, which must be prevented.
- - Asking for user feedback helps to improve the game
-    - Increase the size of the symbol to make viewing easier
-    - Change the color of the card to have more contrast
-    - Discovered a bug where clicking on the same card twice reveals the matching card! The bug is fixed. Yay! :)
+- Using the console to log the code helps in debugging
+- Getting DOM elements by class requires more work than by ID
+- Choosing the right speed/timing can make a game more fun to play and also harder to code
+- If I show a pair of cards for too short of a time, it's hard for the user to see the symbols. But if I show the cards for too long of a time, the user get impatient and will try to click on a third card, which must be prevented.
+- Asking for user feedback helps to improve the game
+- Increase the size of the symbol to make viewing easier
+- Change the color of the card to have more contrast
+- Discovered a bug where clicking on the same card twice reveals the matching card! The bug is fixed. Yay! :)
