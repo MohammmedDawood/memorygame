@@ -36,5 +36,5 @@ I have tremendous fun coding this interactive JavaScript-based game! The starter
 - Change the color of the card to have more contrast
 - Discovered a bug where clicking on the same card twice reveals the matching card! The bug is fixed. Yay! :)
 - Fixing rendering of pop-up at large scale screen width
-- converting functionto arrow functions
-- adding new shuffle function
+- Converting function arrow functions
+- Adding new shuffle function
