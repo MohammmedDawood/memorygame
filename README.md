@@ -9,7 +9,7 @@
 [Click here to play](https://mahmedtony73.github.io/memorygame/)
 
 
-![game preview]( "game preview")
+![game preview](https://github.com/mahmedtony73/memorygame/blob/gh-pages/img/game2.png "game preview")
 
 ## Student Project
 I have tremendous fun coding this interactive JavaScript-based game! The starter code from [Udacity's repository](https://github.com/udacity/fend-project-memory-game) has a JavaScript file that includes a shuffle function (to shuffle a deck of cards) to help the student.
