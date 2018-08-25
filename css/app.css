@@ -39,7 +39,6 @@ h1 {
 
 .deck {
     width: 660px;
-    /* min-height: 680px; */
     background: linear-gradient(160deg, #02ccba 0%, #aa7ecd 100%);
     padding: 32px;
     border-radius: 10px;
@@ -172,7 +171,7 @@ h1 {
 
 .popup .content-1,
 .content-2 {
-	/* max-height: 30%; */
+	/* max-height: 50%; */
 	overflow: auto;
 	text-align: center;
 
@@ -341,6 +340,21 @@ h1 {
 		max-width: 85%;
 	}
 
+	.popup{
+		margin-top: 5%;
+		margin-bottom: 5%;
+		margin-right: 5%;
+		margin-left: 5%;
+	}
+	.content-1{
+		margin: auto;
+		max-width: 100%;
+	}
+	.content-2{
+		margin-left: 20%;
+		margin-right: 20%;
+		max-width: 60%;
+	}
 }
 
 @media (max-width: 768px) {
@@ -361,6 +375,21 @@ h1 {
 		margin-bottom: 5px;
 		margin-right: 5px;
 		margin-left: 5px;
+	}
+	.popup{
+		margin-top: 15%;
+		margin-bottom: 5%;
+		margin-right: 5%;
+		margin-left: 5%;
+	}
+	.content-1{
+		font-size: 1em;
+		margin: auto;
+	}
+	.content-2{
+		font-size: 15px;
+		margin: auto;
+		max-width: 60%;
 	}
 }
 @media (max-width: 630px) {
